@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 :root {
   --bg: #000000;
@@ -7,7 +7,7 @@
   --containerBg: #272727;
   --searchBg: var(--containerBg);
   --scrollbarColor: #3f3f3f;
-  --fontFamily: 'Roboto Mono', monospace;
+  --fontFamily: 'Open Sans';
 }
 
 body {
@@ -103,11 +103,11 @@ body {
   background-color: var(--containerBg);
   border-radius: 3px;
   font-family: var(--fontFamily);
-  font-size: 0.95rem;
+  font-size: 1.0rem;
   font-weight: 200;
-  text-align: center;
+  text-align: left;
   width: 60%;
-  height: 25em;
+  height: 22.5em;
   margin: 0em 0.5em;
   box-sizing: border-box;
 }
