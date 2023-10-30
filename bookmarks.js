@@ -10,6 +10,7 @@ const bookmarks = [
       { name: "AWS(DrawIO)", url: "https://app.diagrams.net/?splash=0&libs=aws4" },
       { name: "AWS(Certification)", url: "https://www.aws.training/Certification" },
       { name: "AWS(SkillBuilder)", url: "https://explore.skillbuilder.aws/pages/16/learner-dashboard" },
+      { name: "AWS(Console)", url: "https://aws.amazon.com/console/" },
     ],
   },
   {
