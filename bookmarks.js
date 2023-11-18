@@ -6,7 +6,8 @@ const bookmarks = [
       { name: "Linkedin(ErikNgigi)", url: "https://www.linkedin.com/in/eric-ngigi-073b72153/" },
       { name: "GitHub(ErikNgigi)", url: "https://github.com/ErikNgigi" },
       { name: "Netlify(ErikNgigi)", url: "https://app.netlify.com/teams/erikngigi/overview" },
-      { name: "Hugo(Local)", url: "http://localhost:1313" },
+      { name: "Hugo(Local)", url: "http://localhost:3000" },
+      { name: "TinaCMS(Local)", url: "http://localhost:3001" },
       { name: "AWS(DrawIO)", url: "https://app.diagrams.net/?splash=0&libs=aws4" },
       { name: "AWS(Certification)", url: "https://www.aws.training/Certification" },
       { name: "AWS(SkillBuilder)", url: "https://explore.skillbuilder.aws/pages/16/learner-dashboard" },
@@ -36,6 +37,8 @@ const bookmarks = [
       { name: "Google Docs", url: "https://docs.google.com/document/u/0/" },
       { name: "Google Sheets", url: "https://docs.google.com/spreadsheets/u/0/" },
       { name: "GitHub", url: "https://github.com/ErikNgigi" },
+      { name: "Airflo-main", url: "https://airflosciences.com" },
+      { name: "Airflo-dev", url: "https://airflosciences-dev.netlify.app" },
     ],
   },
   {
@@ -51,6 +54,7 @@ const bookmarks = [
       { name: "ATBS(Python)", url: "https://automatetheboringstuff.com/" },
       { name: "JavaScriptInfo", url: "https://javascript.info/" },
       { name: "Cpanel", url: "https://exams.cpanel.net/dashboard" },
+      { name: "TinaCMS", url: "https://tina.io/docs/ "},
     ],
   },
 ];
