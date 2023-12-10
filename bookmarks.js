@@ -15,7 +15,7 @@ const bookmarks = [
     title: "Personal Interest",
     links: [
       { name: "YouTube", url: "https://youtube.com" },
-      { name: "Pahe", url: "https://pahe.li" },
+      { name: "Pahe", url: "https://pahe.me" },
       { name: "Nyaa(Torrent)", url: "https://nyaa.si/" },
       { name: "GogoAnime", url: "https://gogoanimehd.io/" },
       { name: "Piratebay(Torrent)", url: "https://thepiratebay.org/index.html" },
@@ -32,7 +32,7 @@ const bookmarks = [
       { name: "EricTheGiggs", url: "https://mail.google.com/mail/u/?authuser=ericthegiggs@gmail.com" },
       { name: "GitHub", url: "https://github.com/ErikNgigi" },
       { name: "AirfloSciences", url: "https://airflosciences.com" },
-      { name: "AirfloSciences-Dev", url: "https://airflosciences-dev.netlify.app" },
+      { name: "AirfloSciences(Development)", url: "https://airflosciences.netlify.app" },
     ],
   },
   {
