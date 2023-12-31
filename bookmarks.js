@@ -17,7 +17,7 @@ const bookmarks = [
       { name: "YouTube", url: "https://youtube.com" },
       { name: "Pahe", url: "https://pahe.me" },
       { name: "Nyaa(Torrent)", url: "https://nyaa.si/" },
-      { name: "GogoAnime", url: "https://gogoanimehd.io/" },
+      { name: "Anitaku", url: "https://anitaku.io/" },
       { name: "Piratebay(Torrent)", url: "https://thepiratebay.org/index.html" },
       { name: "1337x(Torrent)", url: "https://1337x.to/" },
       { name: "Animelool(index)", url: "https://animelool.com/Anime/" },
