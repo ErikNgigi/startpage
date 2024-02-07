@@ -21,6 +21,7 @@ const bookmarks = [
       { name: "Piratebay(Torrent)", url: "https://thepiratebay.org/index.html" },
       { name: "1337x(Torrent)", url: "https://1337x.to/" },
       { name: "Animelool(index)", url: "https://animelool.com/Anime/" },
+      { name: "Yekmdl1(Anime)", url: "https://yekmdl1.site/Anime/"},
     ],
   },
   {
@@ -31,8 +32,10 @@ const bookmarks = [
       { name: "EricWanyoike772", url: "https://mail.google.com/mail/u/?authuser=ericwanyoike772@gmail.com" },
       { name: "EricTheGiggs", url: "https://mail.google.com/mail/u/?authuser=ericthegiggs@gmail.com" },
       { name: "GitHub", url: "https://github.com/ErikNgigi" },
-      { name: "AirfloSciences", url: "https://airflosciences.com" },
-      { name: "AirfloSciences(Development)", url: "https://airflosciences.netlify.app" },
+      { name: "AirfloSciences", url: "https://www.airflosciences.com/" },
+      { name: "AirfloSciences(test)", url: "https://test.airflosciences.com/" },
+      { name: "Zoho(Mail)", url: "https://mail.zoho.com/zm/#mail/folder/inbox" },
+      { name: "Zoho(Admin)", url: "https://mailadmin.zoho.com/cpanel/home.do#dashboard" },
     ],
   },
   {
