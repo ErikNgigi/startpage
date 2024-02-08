@@ -36,6 +36,7 @@ const bookmarks = [
       { name: "AirfloSciences(test)", url: "https://test.airflosciences.com/" },
       { name: "Zoho(Mail)", url: "https://mail.zoho.com/zm/#mail/folder/inbox" },
       { name: "Zoho(Admin)", url: "https://mailadmin.zoho.com/cpanel/home.do#dashboard" },
+      { name: "AirfloSciences(Mail)", url: "https://mail.airflosciences.com/" },
     ],
   },
   {
