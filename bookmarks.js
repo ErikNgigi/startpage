@@ -9,6 +9,7 @@ const bookmarks = [
       { name: "Hugo(Local)", url: "http://localhost:3000" },
       { name: "TinaCMS(Local)", url: "http://localhost:3001" },
       { name: "AWS(Console)", url: "https://aws.amazon.com/console/" },
+      { name: "Namecheap", url: "https://www.namecheap.com/" },
     ],
   },
   {
