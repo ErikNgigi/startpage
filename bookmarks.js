@@ -34,7 +34,7 @@ const bookmarks = [
       { name: "EricTheGiggs", url: "https://mail.google.com/mail/u/?authuser=ericthegiggs@gmail.com" },
       { name: "GitHub", url: "https://github.com/ErikNgigi" },
       { name: "AirfloSciences", url: "https://www.airflosciences.com/" },
-      { name: "AirfloSciences(test)", url: "https://test.airflosciences.com/" },
+      { name: "AirfloSciences(test)", url: "https://beta.airflosciences.com/" },
       { name: "Zoho(Mail)", url: "https://mail.zoho.com/zm/#mail/folder/inbox" },
       { name: "Zoho(Admin)", url: "https://mailadmin.zoho.com/cpanel/home.do#dashboard" },
       { name: "AirfloSciences(Mail)", url: "https://mail.airflosciences.com/" },
