@@ -22,6 +22,7 @@ const bookmarks = [
       { name: "ThePirateBay", url: "https://thepiratebay.org/index.html" },
       { name: "1337X", url: "https://1337x.to/" },
       { name: "Chess", url: "https://www.chess.com/home" },
+      { name: "9Anime", url: "https://9animetv.to/" },
     ],
   },
   {
