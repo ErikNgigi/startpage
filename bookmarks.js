@@ -23,6 +23,7 @@ const bookmarks = [
       { name: "1337X", url: "https://1337x.to/" },
       { name: "Chess", url: "https://www.chess.com/home" },
       { name: "9Anime", url: "https://9animetv.to/" },
+      { name: "Chessable", url: "https://www.chessable.com/" },
     ],
   },
   {
@@ -43,6 +44,7 @@ const bookmarks = [
       { name: "ATBS(Python)", url: "https://automatetheboringstuff.com/" },
       { name: "Cpanel", url: "https://exams.cpanel.net/dashboard" },
       { name: "My GitHub", url: "https://github.com/ErikNgigi" },
+      { name: "Roadmaps", url: "https://roadmap.sh/" },
     ],
   },
   {
