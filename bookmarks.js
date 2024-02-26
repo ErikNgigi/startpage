@@ -16,7 +16,7 @@ const bookmarks = [
     title: "Entertainment",
     links: [
       { name: "YouTube", url: "https://youtube.com" },
-      { name: "Pahe", url: "https://pahe.me" },
+      { name: "Pahe", url: "https://pahe.ink" },
       { name: "Nyaa", url: "https://nyaa.si/" },
       { name: "Anitaku", url: "https://anitaku.io/" },
       { name: "ThePirateBay", url: "https://thepiratebay.org/index.html" },
