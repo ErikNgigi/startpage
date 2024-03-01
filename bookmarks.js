@@ -45,6 +45,8 @@ const bookmarks = [
       { name: "Cpanel", url: "https://exams.cpanel.net/dashboard" },
       { name: "My GitHub", url: "https://github.com/ErikNgigi" },
       { name: "Roadmaps", url: "https://roadmap.sh/" },
+      { name: "Terraform(AWS)", url: "https://registry.terraform.io/providers/hashicorp/aws/latest/docs" },
+      { name: "AWS(Documentation)", url: "https://docs.aws.amazon.com/" },
     ],
   },
   {
