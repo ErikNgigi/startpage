@@ -46,6 +46,7 @@ const bookmarks = [
       { name: "My GitHub", url: "https://github.com/ErikNgigi" },
       { name: "Roadmaps", url: "https://roadmap.sh/" },
       { name: "Terraform(AWS)", url: "https://registry.terraform.io/providers/hashicorp/aws/latest/docs" },
+      { name: "Terraform(Documentation)", url: "https://developer.hashicorp.com/terraform" },
       { name: "AWS(Documentation)", url: "https://docs.aws.amazon.com/" },
     ],
   },
