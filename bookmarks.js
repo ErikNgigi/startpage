@@ -50,12 +50,12 @@ const bookmarks = [
       { name: "AWS(Documentation)", url: "https://docs.aws.amazon.com/" },
     ],
   },
-  {
-    title: "Clients",
-    links: [
-      { name: "AirfloSciences", url: "https://www.airflosciences.com/" },
-      { name: "AirfloSciences(beta)", url: "https://beta.airflosciences.com/" },
-      { name: "AirfloSciences(mail)", url: "https://mail.airflosciences.com/" },
-    ],
-  },
+  // {
+  //   title: "Clients",
+  //   links: [
+  //     { name: "AirfloSciences", url: "https://www.airflosciences.com/" },
+  //     { name: "AirfloSciences(beta)", url: "https://beta.airflosciences.com/" },
+  //     { name: "AirfloSciences(mail)", url: "https://mail.airflosciences.com/" },
+  //   ],
+  // },
 ];
