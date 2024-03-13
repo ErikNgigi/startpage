@@ -28,12 +28,13 @@ const bookmarks = [
     ],
   },
   {
-    title: "Emails",
+    title: "Communication",
     links: [
       { name: "Eric Wanyoike", url: "https://mail.google.com/mail/u/?authuser=ericwanyoike@gmail.com" },
       { name: "Eric Moses Ngigi", url: "https://mail.google.com/mail/u/?authuser=ericmosesngigi@gmail.com" },
       { name: "Eric Wanyoike 772", url: "https://mail.google.com/mail/u/?authuser=ericwanyoike772@gmail.com" },
       { name: "Eric The Giggs", url: "https://mail.google.com/mail/u/?authuser=ericthegiggs@gmail.com" },
+      { name: "WhatsApp Web", url: "https://web.whatsapp.com/" },
     ],
   },
   {
