@@ -12,6 +12,7 @@ const bookmarks = [
       { name: "AWS (Console)", url: "https://aws.amazon.com/console/" },
       { name: "Namecheap", url: "https://www.namecheap.com/" },
       { name: "AWS (Training)", url: "https://www.aws.training/" },
+      { name: "Future Entry Calculator", url: "https://calc.ericngigi.com" },
     ],
   },
   {
