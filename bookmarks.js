@@ -52,6 +52,7 @@ const bookmarks = [
       { name: "Terraform (Documentation)", url: "https://developer.hashicorp.com/terraform" },
       { name: "AWS (Documentation)", url: "https://docs.aws.amazon.com/" },
       { name: "AWS (Python SDK)", url: "https://docs.aws.amazon.com/pythonsdk/" },
+      { name: "Bootstrap", url: "https://getbootstrap.com/docs/5.3/getting-started/introduction/" },
     ],
   },
   // {
