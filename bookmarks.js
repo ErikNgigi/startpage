@@ -13,6 +13,7 @@ const bookmarks = [
       { name: "Namecheap", url: "https://www.namecheap.com/" },
       { name: "AWS (Training)", url: "https://www.aws.training/" },
       { name: "Future Entry Calculator", url: "https://calc.ericngigi.com" },
+      { name: "Heroku", url: "https://dashboard.heroku.com/apps" },
     ],
   },
   {
