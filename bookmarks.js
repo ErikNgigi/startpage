@@ -5,15 +5,10 @@ const bookmarks = [
       { name: "Eric Ngigi (Website)", url: "https://ericngigi.com" },
       { name: "Linkedin", url: "https://www.linkedin.com/in/eric-ngigi-073b72153/" },
       { name: "Erik Ngigi (Github)", url: "https://github.com/ErikNgigi" },
-      { name: "Netlify", url: "https://app.netlify.com/teams/erikngigi/overview" },
-      { name: "Hugo (Local)", url: "http://localhost:3000" },
       { name: "Python (Local)", url: "http://localhost:8000" },
-      { name: "Python (Local-Admin)", url: "http://localhost:8000/admin" },
       { name: "AWS (Console)", url: "https://aws.amazon.com/console/" },
       { name: "Namecheap", url: "https://www.namecheap.com/" },
       { name: "AWS (Training)", url: "https://www.aws.training/" },
-      { name: "Future Entry Calculator", url: "https://calc.ericngigi.com" },
-      { name: "Heroku", url: "https://dashboard.heroku.com/apps" },
     ],
   },
   {
@@ -53,15 +48,6 @@ const bookmarks = [
       { name: "Terraform (Documentation)", url: "https://developer.hashicorp.com/terraform" },
       { name: "AWS (Documentation)", url: "https://docs.aws.amazon.com/" },
       { name: "AWS (Python SDK)", url: "https://docs.aws.amazon.com/pythonsdk/" },
-      { name: "Bootstrap", url: "https://getbootstrap.com/docs/5.3/getting-started/introduction/" },
     ],
   },
-  // {
-  //   title: "Clients",
-  //   links: [
-  //     { name: "AirfloSciences", url: "https://www.airflosciences.com/" },
-  //     { name: "AirfloSciences(beta)", url: "https://beta.airflosciences.com/" },
-  //     { name: "AirfloSciences(mail)", url: "https://mail.airflosciences.com/" },
-  //   ],
-  // },
 ];
